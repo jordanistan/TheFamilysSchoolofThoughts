@@ -1,4 +1,4 @@
-# The Family's School of Thoughts YouTube Channel
+# The Family's School of Thought YouTube Channel
 
 Welcome to our YouTube channel! We post new videos every [insert frequency] on a variety of topics related to [insert topic/niche]. 
 Smash that Subscribe button to stay up to date and turn on notifications to never miss a new video.
