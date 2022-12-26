@@ -19,6 +19,6 @@ Smash that Subscribe button to stay up to date and turn on notifications to neve
 
 ## Follow Us
 
-[[Insert social media links](https://www.youtube.com/@thefamilysschoolofthought)]
+[[YouTube](https://www.youtube.com/@thefamilysschoolofthought)]
 
 Thanks for visiting!
