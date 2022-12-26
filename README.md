@@ -14,8 +14,13 @@ Smash that Subscribe button to stay up to date and turn on notifications to neve
 ## Recent Videos
 
 - [Episode 46 - A Strange Occurrence in Westall, Australia](https://www.youtube.com/watch?v=iUAxKjUnf04)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/iUAxKjUnf04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- 
 - [Episode 45 - The Kidnapping of Charles Ross](https://www.youtube.com/watch?v=V9WmsusIi2A)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/V9WmsusIi2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- 
 - [Episode 44 -The Ghost of Teresita](https://www.youtube.com/watch?v=hdwHtAxfyN8)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/hdwHtAxfyN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Follow Us
 
