@@ -1,110 +1,24 @@
-<div align="center" id="top"> 
-  <img src="https://media.tenor.com/images/af715c0a6016e077e27d332bb9858966/tenor.gif" alt="The Familys School of Thought" />
+# The Family's School of Thoughts YouTube Channel
 
-  &#xa0;
+Welcome to our YouTube channel! We post new videos every [insert frequency] on a variety of topics related to [insert topic/niche]. 
+Smash that Subscribe button to stay up to date and turn on notifications to never miss a new video.
 
-  <!-- <a href="https://The Familys School of Thought.netlify.app">Demo</a> -->
-</div>
+## Latest Video
 
-<h1 align="center">The Familys School of Thought</h1>
+[Episode 47 - Bella in the Wych Elm]
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top//The Familys School of Thought?color=56BEB8">
+[Bella in the Wych Elm]
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count//The Familys School of Thought?color=56BEB8">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/83a0hqGeFXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size//The Familys School of Thought?color=56BEB8">
+## Recent Videos
 
-  <img alt="License" src="https://img.shields.io/github/license//The Familys School of Thought?color=56BEB8">
+- [Episode 46 - A Strange Occurrence in Westall, Australia](https://www.youtube.com/watch?v=iUAxKjUnf04)
+- [Episode 45 - The Kidnapping of Charles Ross](https://www.youtube.com/watch?v=V9WmsusIi2A)
+- [Episode 44 -The Ghost of Teresita](https://www.youtube.com/watch?v=hdwHtAxfyN8)
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues//The Familys School of Thought?color=56BEB8" /> -->
+## Follow Us
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks//The Familys School of Thought?color=56BEB8" /> -->
+[[Insert social media links](https://www.youtube.com/@thefamilysschoolofthought)]
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars//The Familys School of Thought?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  The Familys School of Thought 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/" target="_blank">Author</a>
-</p>
-
-<br>
-
-## :dart: About ##
-
-This is The Familys School of Thought. This site was created to allow opportunities come to me. From the website you will see a variety of skills I have obtained over the years.
-You will also be able to download my resume from the website. In fact, maybe the reason you are reading this is cause you were sent to the website. 
-
-The other great part about the website is this allows people to schedule the time to speak with me. Without the back and forth of finding what time works best. 
-This allows YOU...YEAHH YOU!!!! To see my availability with out having to wait on a reply back. You book the day and time and it shows up on my calendar. 
-This created a Google Meeting for use to chat.
-
-
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1; You are able to get my resume \
-:heavy_check_mark: Feature 2; Able to schedule a Video chat without ever speaking \
-:heavy_check_mark: Feature 3; It's all about working Smarter and not Harder!
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [GoLang](https://golang.org/doc/)
-- [Terraform](https://www.terraform.io/docs/index.html)
-- [Ansible](https://docs.ansible.com/ansible_community.html)
-- [Docker](https:docker.io)
-- [Github](https://github.com/)
-- [More Coming Soon.....](https://The Familys School of Thought.com/)
-
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com//$repo
-
-# Access
-$ cd $repo
-
-# Install dependencies
-$ sudo make me a sandwich
-
-# Run the project
-$ Service start toaster
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/" target="_blank">The Familys School of Thought</a>
-
-:computer: <a href="https://The Familys School of Thought.com" target="_blank">Visit my Website
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-# TheFamilysSchoolofThoughts
+Thanks for visiting!
