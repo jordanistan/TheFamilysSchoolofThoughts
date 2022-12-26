@@ -5,9 +5,8 @@ Smash that Subscribe button to stay up to date and turn on notifications to neve
 
 ## Latest Video
 
-[Episode 47 - Bella in the Wych Elm]
-
-[Bella in the Wych Elm]
+# Episode 47 - Bella in the Wych Elm
+*Bella in the Wych Elm*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/83a0hqGeFXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
